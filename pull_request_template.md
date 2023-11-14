@@ -32,3 +32,19 @@ on the devices and browsers this has been tested on, as well as any relevant ima
 - [ ] ⏲ no, because I don't have the allocated hours
 
 ## [optional] Are there any post-deployment tasks we need to perform?
+
+
+## Code Review Checklist
+
+_To be completed by the code reviewer_
+
+- [ ] Does the code meet the feature's acceptance criteria and behave as expected?
+- [ ] Is the code simple to understand and use for developers? If it could be simpler, how?
+    - [ ] Components are modular and logical
+    - [ ] Variable names are clear
+    - [ ] Comments are useful
+    - [ ] Maintains existing design patterns
+- [ ] Are the automated tests correct, complete, and well-designed?
+- [ ] Are there any security risks introduced in the changes?
+- [ ] Are there any performance implications from these change?
+- [ ] Has the relevant documentation been updated or created?
